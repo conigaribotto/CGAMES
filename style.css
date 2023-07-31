@@ -252,6 +252,10 @@ img {vertical-align: middle;}
 
 }
 /*contact*/
+.Contact p{
+    color: #fff;
+   text-align: center;
+}
 .contact h2{
     color: white;
     margin: 10px 0;
